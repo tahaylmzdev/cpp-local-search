@@ -1,0 +1,2 @@
+C++ is a powerful programming language.
+Programming requires practice and patience.

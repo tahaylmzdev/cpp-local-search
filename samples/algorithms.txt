@@ -1,0 +1,2 @@
+Algorithms are important in computer science.
+Sorting algorithms help organize data.
